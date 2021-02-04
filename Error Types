@@ -1,0 +1,20 @@
+Syntax errors - 
+This type of bug comes from typos. 
+When the python interpreter sees a syntax error, 
+it's becasuse the code isn't written in proper Python Language.
+A pyhton program with a single syntax error won't run.
+
+Runtime errors - 
+These are bugs that happen while the program us running. 
+The program will work until it reaches the line of code with the error, 
+and then the program will crash. The Python interpreter will display a 
+traceback.
+
+Sematic errors - 
+These bugs (which are the trickiest to fix) don't crash the program, 
+but they do not do the indented job given.
+
+Crash - program terminates with an error message.
+
+Traceback - an erro message showing the line containing the problem.
+
